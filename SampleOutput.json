@@ -1,0 +1,97 @@
+{
+    "status": "ok",
+    "totalResults": 7,
+    "articles": [
+        {
+            "source": {
+                "id": "t3n",
+                "name": "T3n"
+            },
+            "author": null,
+            "title": "Mehr als iPhone 15: Was uns 2023 von Apple erwartet",
+            "description": "Apples Produktjahr hat früh begonnen und im Juni zur WWDC mit der Vision Pro seinen ersten Höhepunkt erreicht.",
+            "url": "https://t3n.de/news/iphone-15-apple-ausblick-2023-1529095/",
+            "urlToImage": "https://t3n.de/news/wp-content/uploads/2020/10/Homepod-Mini-Apple-Tim-Cook.jpg",
+            "publishedAt": "2023-06-26T11:15:00Z",
+            "content": "Apples Produktjahr 2023 ist wild gestartet: Entgegen dem üblichen Vorgehen, kündigte der Hersteller schon im Januar neue Macbook Pros (Test), den Mac Mini (Test) und eine Neuauflage des großen Homepo… [+5633 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": null,
+            "title": "Apple’s Vision Pro headset may not come with a top strap in the box | Engadget",
+            "description": "Apple is reportedly considering selling the Vision's Pro top strap as an optional accessory rather than including it in the box..",
+            "url": "https://www.engadget.com/apples-vision-pro-headset-may-not-come-with-a-top-strap-in-the-box-160601556.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/cGdlZuuJpS9JEJdeis9T8g--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-06/daa05590-03ec-11ee-9ddf-b4f2e7b531a5.cf.jpg",
+            "publishedAt": "2023-06-26T10:52:23.0104107Z",
+            "content": "When Engadget Senior Editor Devindra Hardawar previewed the Vision Pro\r\n in early June, the prototype unit he tried featured an extra velcro strap not seen in any of Apples promotional material. At t… [+1704 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": null,
+            "title": "Apple’s second-generation AirPods Pro are back on sale for $200 | Engadget",
+            "description": "Apple's second-generation AirPods Pro are back on sale for $200, or $50 off their usual price..",
+            "url": "https://www.engadget.com/apples-second-generation-airpods-pro-are-back-on-sale-for-200-174134027.html",
+            "urlToImage": "https://s.yimg.com/uu/api/res/1.2/ErXIpGO4rQaVal_TWhIiKA--~B/Zmk9ZmlsbDtoPTYzMDtweW9mZj0wO3c9MTIwMDthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2022-09/6be0e290-39fe-11ed-a7b7-d9f37772c112.cf.jpg",
+            "publishedAt": "2023-06-26T10:52:20.8236975Z",
+            "content": "Apple makes some of the best earbuds\r\n you can use with an iPhone, and now you can buy a pair of AirPods Pro\r\n for less than you would typically pay for them. The second-generation model has dropped … [+948 chars]"
+        },
+        {
+            "source": {
+                "id": "techradar",
+                "name": "TechRadar"
+            },
+            "author": "Hamish Hector",
+            "title": "The Apple Vision Pro brings 'validation' and unique opportunities to VR say developers",
+            "description": "What do VR software creators make of the Vision Pro?",
+            "url": "https://www.techradar.com/computing/virtual-reality-augmented-reality/the-apple-vision-pro-brings-validation-and-unique-opportunities-to-vr-say-developers",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/FwtckDHLRWLduyQ6KPo22K-1200-80.jpg",
+            "publishedAt": "2023-06-25T18:00:42Z",
+            "content": "After years of speculation, Apple finally unveiled the Apple Vision Pro VR headset at WWDC 2023, and initial reactions to the upcoming hardware have ranged from “I need this yesterday” to “Why does t… [+7543 chars]"
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Wired",
+            "title": "15 Best Early Amazon Prime Day Deals: Pixel Phones, Apple Watches, and Dyson Gear",
+            "description": "Amazon's big sale event arrives in July, but the discounts have already started—including on the Dyson Corrale and the Apple Watch Series 8.",
+            "url": "https://www.wired.com/story/early-prime-day-deals-2023",
+            "urlToImage": "https://media.wired.com/photos/64934610da92561daff93b83/191:100/w_1280,c_limit/early_prime_deals_final.jpg",
+            "publishedAt": "2023-06-22T20:32:07Z",
+            "content": "since 2015, Amazon has held at least one Prime Day per year. It's the annual sale event where the retailer slashes prices on thousands of products across its online storefront. Prime Day, over time, … [+6841 chars]"
+        },
+        {
+            "source": {
+                "id": "wired-de",
+                "name": "Wired.de"
+            },
+            "author": "GQ",
+            "title": "Apple Neuheiten: Was wir vor der ersten Keynote 2021 wissen!",
+            "description": "Bald soll es so weit sein: Bei der ersten Keynote 2021 präsentiert Apple Neues aus Cupertino. Auf diese Produkte dürfen wir uns freuen!",
+            "url": "https://www.gq-magazin.de/auto-technik/article/apple-neuheiten-2021-das-wissen-wir-vor-keynote",
+            "urlToImage": "https://res.cloudinary.com/wired-de/image/upload/t_teaser_square/v1/0/apple-neuheiten-event-erste-keynote-2021-technik-aufmjpg.jpg",
+            "publishedAt": "2021-03-23T17:09:52Z",
+            "content": "Auf eines ist im Frühjahr immer Verlass: Apple präsentiert seine (ersten) neuen Produkte. Glauben wir den jüngsten Gerüchten, wird das auch 2021 so sein und dieses Jahr sogar wieder live aus Cupertin… [+2936 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "Akram's yorkers, Hegg's hits, and Chapple's 6 for 18 | ESPNcricinfo.com",
+            "description": "This week, we relive the glorious one-day triumphs of Lancashire in the 1990s | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29102935/o-my-akram-my-hegg-long-ago",
+            "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1221634_1296x729.jpg",
+            "publishedAt": "2020-04-27T10:24:08Z",
+            "content": "With still no live cricket in sight, we're digging deep into YouTube to keep ourselves entertained. This week, a trip down memory lane with one of the most dominant one-day sides ever - Lancashire in… [+5185 chars]"
+        }
+    ]
+}
