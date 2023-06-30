@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom'
 export class Navbar extends Component {
   render() {
     return (
-      <div className='sticky-sm-top'>
+      <div className='sticky-top'>
         <nav className="navbar navbar-expand-lg bg-body-tertiary " data-bs-theme="dark">
           <div className="container-fluid">
             <Link className="navbar-brand" to="/">YourDailyNews</Link>
