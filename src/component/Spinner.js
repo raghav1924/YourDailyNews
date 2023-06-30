@@ -1,9 +1,9 @@
-import React, { Component } from 'react'
+import React from 'react'
 import loading from '../assests/Search.gif'
 import loading2 from '../assests/Jumping letters.gif'
 
-export class Spinner extends Component {
-  render() {
+const Spinner=()=> {
+
     return (
       <div className="text-center ">
         <div className='d-inline-flex flex-column justify-content-center'>
@@ -12,7 +12,6 @@ export class Spinner extends Component {
         </div>
       </div>
     )
-  }
 }
 
 export default Spinner

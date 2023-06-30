@@ -20,7 +20,7 @@ export default class App extends Component {
   }
   render() {
     //  let j='also work inside render as javascript'
-    let pageSize=5;
+    let pageSize=20;
 
 
 
