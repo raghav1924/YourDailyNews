@@ -13,7 +13,7 @@ const News = (props) => {
   // document.title = `${props.heading} | YourDailyNews`
 
   useEffect(() => {
-    // updateNews();
+    updateNews();
   }, []);
 
   const updateNews = async () => {
